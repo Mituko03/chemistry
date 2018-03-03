@@ -1,0 +1,358 @@
+body{
+    background-color: #ebffb5;
+    cursor: url(kotori.gif), default;
+}
+
+#sidebar{
+    float: left;
+    width: 240px;
+    padding: 0 4px;
+    margin-bottom: 20px;
+}
+
+.tail i{
+    font-size: 1em;
+    margin: 10px;
+}
+
+.introduce{
+    margin: 20px;
+}
+
+.date a{
+    text-decoration: none;
+    font-size: 10px;
+    font-family: "03SmartFontUI";
+    color: #000;
+}
+
+.main{
+    float: left;
+    width: 1040px;
+    margin: 30px 24px 10px;
+    background-color: rgba(500,500,500,0.65);
+    padding: 5px 5px 5px 5px;
+}
+
+p3{
+    font-family: "KodomoRounded-Light";
+}
+
+h4{
+    font-family: "Planetarium";
+    text-align: center;
+    margin: 20px 0 50px;
+    color: #006;
+    font-size: 4.3em;
+}
+
+p5{
+    text-align: center;
+    font-family: "katyoubb";
+    color: #598961;
+    font-size: 2.5em;
+    display: block;
+}
+
+.list{
+    overflow: hidden;
+    float: left;
+    width: 1040px;
+    height: 250px;
+    margin: 30px 24px 5px;
+    background-color: rgba(250,220,210,0.8);
+    padding: 5px 5px 5px 5px;
+    transition-duration: 1.5s;
+    transition-property: overflow;
+}
+
+.list:hover{
+    overflow: scroll;
+}
+
+.mokuji{
+    width: 300px;
+    margin: 0 auto;
+    text-align: left;
+    font-size: 2em;
+    display: block;
+}
+
+.news{
+    overflow: hidden;
+    float: left;
+    width: 1300px;
+    height: 270px;
+    margin: 30px 24px 5px;
+    background-color: rgba(210,245,255,0.8);
+    padding: 5px 5px 5px 5px;
+    transition-duration: 1.5s;
+    transition-property: overflow;
+
+}
+
+.news:hover{
+    overflow: scroll;
+}
+
+h5{
+    font-family: "KodomoRounded-Light";
+    text-align: center;
+    margin: 0;
+    color: #000;
+    font-size: 3.7em;
+}
+
+h6{
+    font-family: "Tanuki-Permanent-Marker";
+    text-align: center;
+    margin: 0;
+    color: #000;
+    font-size: 3.3em;
+}
+
+.introduce{
+    margin: 10px 7px 5px;
+    background-color: rgba(254,234,234,0.65);
+    padding: 5px 5px 5px 5px;
+    width: 100%;
+    
+}
+
+#sidebar2{
+    float: right;
+    width: 750px;
+    margin: 10px 7px 5px;
+    background-color: rgba(200,200,200,0.65);
+    padding: 5px 5px 5px 5px;
+} 
+
+#sidebar img{
+    margin-top: 5px;
+    margin-bottom: 5px;
+    padding-right: 4px;
+    margin-left: 25px;
+    
+}
+
+#sidebar h2{
+    z-index: 4;
+    font-size: 35px;
+    margin-bottom: 5px;
+    text-align: center;
+    font-family: "HonyaJi-Re";
+}
+
+p3{
+    text-align: center;
+    font-size: 25px;
+    color: #7370a2;
+}
+
+.main-visual{
+    background: #fff url("atomicheader.jpg") 0 0 no-repeat;
+    width: 1425px;
+    height: 140px;
+    background-size: cover;
+}
+
+.tail{
+    
+}
+
+#main{
+    float: right;
+    display: block;
+    position:fixed;
+}
+
+.list a{
+    font-family: "YomogiFont";
+    text-decoration: none;
+    color: #71003b;
+}
+
+.news a{
+    font-family: "Yutapon-coding-Demi-Bold";
+    text-decoration: none;
+    text-align: center;
+    color: #465183;
+    font-size: 2.4em;
+}
+
+.atom{
+    
+}
+
+.mol{
+    
+}
+
+.formul{
+    
+}
+
+.acid_base{
+    
+}
+
+.in_organic{
+    
+}
+
+.organic{
+    
+}
+
+.pressure{
+
+}
+
+.change{
+    
+}
+
+.colloid{
+    
+}
+
+.format{
+    
+}
+
+.me{
+    
+}
+
+.reference{
+    
+}
+
+.tail{
+    text-align: center;
+}
+
+.tail a{
+    text-decoration: none;
+    color: #ff989d; 
+}
+
+h1{
+    
+}
+
+ul {
+  list-style:none;
+}
+
+.imgatom img{
+    margin-top: 15px;
+    padding: 10px;
+    float: right;
+}
+
+h7{
+    float: right;
+    font-family: "YomogiFont";
+    font-size: 3em;
+    color: #994929;
+}
+
+div .imagatom{
+    clear: both;
+}
+
+h8 .clear{
+    clear: both;
+}
+
+.imgatom2 img{
+    margin: 20px;
+    float: left;
+}
+
+h8{
+    float: right;
+    text-align: left;
+    padding: 25px;
+    font-family: "YomogiFont";
+    font-size: 2.3em;
+    color: #71406f;
+    width: 850px;
+}
+
+.imagatom3 img{
+    margin-top: 110px;
+}
+
+.imagatom3 p{
+    float: left;
+    text-align: left;
+    padding: 20px;
+    font-family: "YomogiFont";
+    font-size: 2.3em;
+    color: #71406f;
+    width: 850px;
+}
+
+.imagatom4 p{
+    font-family: "YomogiFont";
+    color: #71406f;
+    float: left;
+    font-size: 40px;
+}
+
+.imagatom img{
+    float: left;
+}
+
+.imagatom5 p{
+    font-family: "YomogiFont";
+    color: #71406f;
+    font-size: 40px;
+    float: right;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
